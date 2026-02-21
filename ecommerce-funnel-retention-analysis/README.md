@@ -1,6 +1,7 @@
-# E-commerce Funnel & Retention Analysis (MercadoLibre)
+# E-commerce Funnel & Retention Analysis (SQL Case Study)
 
-This project analyzes the conversion funnel and user retention patterns for an e-commerce product, using SQL to identify drop-off points, compare performance by country, and highlight the critical retention window after signup.
+This project analyzes user behavior in an e-commerce platform (MercadoLibre case study) using SQL.  
+The objective is to identify conversion bottlenecks, retention patterns, and high-impact optimization opportunities.
 
 ## Project Context & Goal
 E-commerce growth depends not only on acquiring traffic, but also on moving users efficiently through the funnel and retaining them over time.  
@@ -12,10 +13,6 @@ The main goals of this analysis are:
 - Analyze retention at key time checkpoints (D7, D14, D21, D28).
 - Provide actionable recommendations to improve conversion and engagement.
 
-## Dataset & Scope
-- **Source:** Bootcamp dataset (MercadoLibre e-commerce events)
-- **Period analyzed:** 01/01/2025 to 31/08/2025
-- **Outputs:** Funnel conversion tables, country-level comparisons, retention summary by country, cohort retention trends.
 
 ## Methodology (SQL)
 The analysis followed these steps:
@@ -35,22 +32,24 @@ The analysis followed these steps:
    - Identify early re-engagement opportunities to reduce churn
 
 ## Key Insights
-- The **largest conversion drop** occurs after users select an item, suggesting friction between product interest and purchase intent.
-- Conversion outcomes vary significantly across countries, supporting the need for **localized optimization strategies**.
-- Retention decreases sharply after the first two weeks, indicating a **critical retention window between D7 and D14**.
+- The largest drop occurs between **select_item → add_to_cart**, indicating friction during product evaluation.
+- Final purchase conversion is low (~1–2%), suggesting high funnel leakage.
+- Conversion and retention vary significantly across countries.
+- Retention drops sharply after D14, revealing a critical early churn window.
 
 ## Strategic Recommendations
-- Prioritize improvements in the **select_item → add_to_cart** stage, since it represents the highest loss of users and impacts all downstream funnel steps.
-- Implement early **re-engagement strategies** (personalized nudges, onboarding incentives) during the first 14 days to reduce churn.
-- Extend analysis with additional factors (pricing signals, shipping cost visibility, trust signals, segmentation by acquisition channel) to validate hypotheses.
+- Prioritize optimization of the **select_item → add_to_cart** stage.
+- Improve product page clarity (pricing, shipping, trust signals).
+- Implement early re-engagement strategies before D14.
+- Develop country-specific optimization strategies.
 
-## Repository Contents
+## Repository Structure
 - `funnel_analysis.sql` — SQL used to compute funnel metrics and conversion rates
 - `retention_analysis.sql` — SQL used to compute D7/D14/D21/D28 retention and cohort trends
 - `images/` — Screenshots of results, tables, and key visuals
 
 ## Visuals (Screenshots)
-Add your screenshots to the `images/` folder and reference them here, for example:
+
 
 - Funnel summary table  
   
@@ -61,11 +60,9 @@ Add your screenshots to the `images/` folder and reference them here, for exampl
 - Retention by cohort  
   
 
-## Tools
-- SQL (CTEs, aggregations, conditional logic)
-- Google Sheets (tables and executive summary formatting)
+## Tech Stack
 
-## Next Improvements
-- Publish results in a lightweight dashboard (Looker Studio / Tableau)
-- Add segmentation by device type or acquisition channel (if available)
-- Model uplift scenarios (e.g., +10% improvement in early funnel conversion)
+- SQL (CTEs, aggregation, cohort analysis)
+- Google Sheets (result modeling & executive summary)
+
+This project demonstrates strong SQL skills, funnel modeling, retention analysis, and business-driven data interpretation.
