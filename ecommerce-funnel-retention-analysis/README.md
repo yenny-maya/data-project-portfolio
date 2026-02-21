@@ -53,13 +53,13 @@ The analysis followed these steps:
 Add your screenshots to the `images/` folder and reference them here, for example:
 
 - Funnel summary table  
-  ![Funnel Summary](images/funnel_summary.png)
+  
 
 - Funnel conversion by country  
-  ![Funnel by Country](images/funnel_by_country.png)
+  
 
 - Retention by cohort  
-  ![Retention by Cohort](images/retention_cohort.png)
+  
 
 ## Tools
 - SQL (CTEs, aggregations, conditional logic)
