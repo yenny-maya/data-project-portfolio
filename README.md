@@ -1,15 +1,24 @@
-# Data Analytics Portfolio
+# Yenny Maya – Data Analytics Portfolio
 
-Welcome to my data analytics portfolio.
+Welcome to my professional data analytics portfolio.
 
-This repository contains end-to-end data analysis projects, including data cleaning, aggregation, visualization, and strategic insights.
+I am a data analyst with a background in IT and engineering, focused on transforming data into strategic insights that support decision-making.
+
+---
+
+## About Me
+
+I combine technical skills in SQL, Python, and data visualization with business-oriented thinking.  
+My work focuses on extracting actionable insights from real-world datasets, particularly in urban analytics and economic performance.
+
+---
 
 ## Projects
 
-### Urban Mobility and Economic Productivity in LATAM Cities
-Analysis of the relationship between traffic congestion and economic performance across major Latin American cities.
+### 1. Urban Mobility and Economic Productivity in LATAM Cities
+Analysis of the relationship between traffic congestion and economic performance in major Latin American cities.
 
-**Tools used:** Python, Pandas, Seaborn, Matplotlib  
-**Techniques:** Data cleaning, aggregation, merging datasets, exploratory analysis, visualization  
+**Tools:** Python, Pandas, Seaborn, Matplotlib  
+**Skills demonstrated:** Data cleaning, aggregation, merging datasets, visualization, strategic insights  
 
-→ [View Project Folder](./urban-mobility-economic-analysis)
+→ [View Project](./urban-mobility-economic-analysis)
