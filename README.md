@@ -36,7 +36,7 @@ Exploratory analysis evaluating the relationship between traffic congestion and 
 
 ---
 
-### 2️ E-commerce Funnel & Retention Analysis (SQL Case Study)
+### 2. E-commerce Funnel & Retention Analysis (SQL Case Study)
 
 SQL-based analysis of user behavior in an e-commerce platform to identify conversion bottlenecks and retention patterns.
 
