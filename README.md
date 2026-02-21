@@ -22,3 +22,16 @@ Analysis of the relationship between traffic congestion and economic performance
 **Skills demonstrated:** Data cleaning, aggregation, merging datasets, visualization, strategic insights  
 
 → [View Project](./urban-mobility-economic-analysis)
+
+### 2. E-commerce Funnel & Retention Analysis (SQL Case Study)
+
+Analysis of user behavior in an e-commerce platform to identify conversion bottlenecks and retention patterns.
+
+**Skills demonstrated:**
+- Funnel modeling
+- Conversion rate analysis
+- Retention (D7, D14, D21, D28)
+- Cohort analysis
+- Business recommendations
+
+→ [View Project](./ecommerce-funnel-retention-analysis)
