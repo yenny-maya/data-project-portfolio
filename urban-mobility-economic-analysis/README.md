@@ -1,17 +1,35 @@
 # Urban Mobility and Economic Productivity in LATAM Cities
 
-## Objective
-This project analyzes the relationship between urban congestion indicators and economic productivity across major Latin American cities.
+## Context
 
-## Key Questions
-- Do cities with higher GDP per capita experience lower congestion?
-- Is there a consistent relationship between economic performance and mobility efficiency?
+This project analyzes whether traffic congestion levels are associated with economic productivity in major Latin American cities.
+
+## Data Sources
+
+- TomTom Traffic Index
+- OECD Cities Dataset
 
 ## Methodology
-- Data cleaning and standardization
-- Annual aggregation of traffic metrics
-- Merging mobility and economic datasets
-- Exploratory visualization and pattern detection
 
-## Key Insight
-No consistent linear relationship was found between GDP per capita and congestion levels. Urban congestion appears to be influenced by multiple structural factors beyond economic productivity alone.
+- Data cleaning and standardization
+- Date transformation and aggregation to annual level
+- Merging mobility and economic indicators
+- Exploratory data analysis and visualization
+
+## Key Findings
+
+- No clear linear relationship between GDP per capita and congestion levels.
+- Mexico City presents the highest congestion levels.
+- Urban congestion appears to be influenced by multiple structural factors.
+
+## Strategic Implications
+
+Investment in transport infrastructure should prioritize cities where congestion levels significantly impact productivity.
+
+## Visualizations
+<img width="578" height="435" alt="image" src="https://github.com/user-attachments/assets/622c073b-1c13-459d-9f11-0b5b84078739" />
+<img width="562" height="447" alt="image" src="https://github.com/user-attachments/assets/bc132f4a-8a9e-425d-a67d-ce77cc58672e" />
+<img width="1023" height="622" alt="image" src="https://github.com/user-attachments/assets/f0607fcc-7de7-4b1e-97b3-7940821f8640" />
+
+
+
