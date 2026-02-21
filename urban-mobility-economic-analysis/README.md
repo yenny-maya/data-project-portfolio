@@ -27,10 +27,13 @@ This project analyzes whether traffic congestion levels are associated with econ
 Investment in transport infrastructure should prioritize cities where congestion levels significantly impact productivity.
 
 ## Visualizations
+
 <img width="578" height="435" alt="image" src="https://github.com/user-attachments/assets/622c073b-1c13-459d-9f11-0b5b84078739" />
 
+--
 <img width="562" height="447" alt="image" src="https://github.com/user-attachments/assets/bc132f4a-8a9e-425d-a67d-ce77cc58672e" />
 
+--
 <img width="1023" height="622" alt="image" src="https://github.com/user-attachments/assets/f0607fcc-7de7-4b1e-97b3-7940821f8640" />
 
 
