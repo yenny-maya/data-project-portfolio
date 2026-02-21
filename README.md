@@ -2,36 +2,57 @@
 
 Welcome to my professional data analytics portfolio.
 
-I am a data analyst with a background in IT and engineering, focused on transforming data into strategic insights that support decision-making.
+I am a data analyst with a background in IT and engineering, focused on transforming data into strategic insights that support data-driven decision-making.
 
 ---
 
 ## About Me
 
-I combine technical skills in SQL, Python, and data visualization with business-oriented thinking.  
-My work focuses on extracting actionable insights from real-world datasets, particularly in urban analytics and economic performance.
+I combine technical expertise in SQL, Python, and data visualization with strong business-oriented thinking.  
+My work focuses on extracting actionable insights from real-world datasets, optimizing performance metrics, and supporting strategic decisions.
+
+Core strengths:
+- SQL (CTEs, aggregation, funnel modeling, cohort analysis)
+- Python (Pandas, data cleaning, visualization)
+- Business-focused analytical thinking
+- End-to-end project structuring
 
 ---
 
 ## Projects
 
 ### 1. Urban Mobility and Economic Productivity in LATAM Cities
-Analysis of the relationship between traffic congestion and economic performance in major Latin American cities.
+
+Exploratory analysis evaluating the relationship between traffic congestion and economic performance across major Latin American cities.
 
 **Tools:** Python, Pandas, Seaborn, Matplotlib  
-**Skills demonstrated:** Data cleaning, aggregation, merging datasets, visualization, strategic insights  
+**Skills demonstrated:**  
+- Data cleaning and transformation  
+- Dataset merging and aggregation  
+- Exploratory data analysis  
+- Strategic recommendations  
 
 → [View Project](./urban-mobility-economic-analysis)
 
-### 2. E-commerce Funnel & Retention Analysis (SQL Case Study)
+---
 
-Analysis of user behavior in an e-commerce platform to identify conversion bottlenecks and retention patterns.
+### 2️ E-commerce Funnel & Retention Analysis (SQL Case Study)
 
-**Skills demonstrated:**
-- Funnel modeling
-- Conversion rate analysis
-- Retention (D7, D14, D21, D28)
-- Cohort analysis
-- Business recommendations
+SQL-based analysis of user behavior in an e-commerce platform to identify conversion bottlenecks and retention patterns.
+
+**Tools:** SQL (CTEs, aggregations, cohort logic)  
+**Skills demonstrated:**  
+- Funnel modeling (conversion analysis)  
+- Retention analysis (D7, D14, D21, D28)  
+- Cohort analysis  
+- Business optimization insights  
 
 → [View Project](./ecommerce-funnel-retention-analysis)
+
+---
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/yenny-maya-195b1a46
+- Email: yenny1426@gmail.com
+- GitHub: https://github.com/yenny-maya
