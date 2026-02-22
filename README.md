@@ -8,7 +8,7 @@ I am a data analyst with a background in IT and engineering, focused on transfor
 
 ## About Me
 
-I combine technical expertise in SQL, Python, and data visualization with strong business-oriented thinking.  
+I combine technical knowledge in SQL, Python, and data visualization with strong business-oriented thinking.  
 My work focuses on extracting actionable insights from real-world datasets, optimizing performance metrics, and supporting strategic decisions.
 
 Core strengths:
@@ -50,9 +50,3 @@ SQL-based analysis of user behavior in an e-commerce platform to identify conver
 → [View Project](./ecommerce-funnel-retention-analysis)
 
 ---
-
-## Contact
-
-- LinkedIn: www.linkedin.com/in/yenny-maya-195b1a46
-- Email: yenny1426@gmail.com
-- GitHub: https://github.com/yenny-maya
