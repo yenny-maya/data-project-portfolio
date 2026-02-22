@@ -21,7 +21,7 @@ Core strengths:
 
 ## Projects
 
-Portfolio of SQL and Python data analytics projects focused on funnel optimization, retention analysis, and economic data evaluation.
+This portfolio showcases end-to-end SQL and Python case studies focused on conversion optimization, retention analytics, and economic performance evaluation.
 
 ### 1. Urban Mobility and Economic Productivity in LATAM Cities
 
