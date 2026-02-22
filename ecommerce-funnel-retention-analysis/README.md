@@ -51,22 +51,22 @@ The analysis followed these steps:
 
 
 ### - Funnel summary table  
---
+<br>
   <img width="1657" height="877" alt="image" src="https://github.com/user-attachments/assets/fda73026-e600-4635-8f02-d14c9a15e272" />
   
 
 ### - Funnel conversion by country 
---
+<br>
 
   <img width="1687" height="1007" alt="image" src="https://github.com/user-attachments/assets/11d96f7b-3f5c-47f8-9042-5dd359a8c8e0" />
 
 ### - Retention by cohort  
---
+<br>
 
   <img width="1542" height="1160" alt="image" src="https://github.com/user-attachments/assets/b5914056-1d16-4e68-8c2c-d3a42055bed2" />
   
 ### - Retention by country
---
+<br>
   
 <img width="1447" height="1167" alt="image" src="https://github.com/user-attachments/assets/0efb8d4b-08ac-4f49-b14f-712f6d215b06" />
 
