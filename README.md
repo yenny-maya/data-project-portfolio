@@ -34,7 +34,7 @@ Exploratory analysis evaluating the relationship between traffic congestion and 
 - Exploratory data analysis  
 - Strategic recommendations  
 
-→ [View Project](./urban-mobility-economic-analysis)
+➤ [View Project](./urban-mobility-economic-analysis)
 
 ---
 
@@ -49,6 +49,6 @@ SQL-based analysis of user behavior in an e-commerce platform to identify conver
 - Cohort analysis  
 - Business optimization insights  
 
-→ [View Project](./ecommerce-funnel-retention-analysis)
+➤ [View Project](./ecommerce-funnel-retention-analysis)
 
 ---
