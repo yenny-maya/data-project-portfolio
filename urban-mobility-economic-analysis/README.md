@@ -2,7 +2,7 @@
 
 ## Context
 
-This project analyzes whether traffic congestion levels are associated with economic productivity in major Latin American cities.
+This project evaluates the relationship between traffic congestion and economic productivity in major Latin American cities.
 
 ## Data Sources
 
@@ -24,7 +24,7 @@ This project analyzes whether traffic congestion levels are associated with econ
 
 ## Strategic Implications
 
-Investment in transport infrastructure should prioritize cities where congestion levels significantly impact productivity.
+Investment in transport infrastructure should prioritize cities where congestion shows the strongest productivity impact.
 
 ## Visualizations
 
