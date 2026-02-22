@@ -1,7 +1,6 @@
 # E-commerce Funnel & Retention Analysis (SQL Case Study)
 
-This project analyzes user behavior in an e-commerce platform (MercadoLibre case study) using SQL.  
-The objective is to identify conversion bottlenecks, retention patterns, and high-impact optimization opportunities.
+This project analyzes user behavior in an e-commerce platform (MercadoLibre case study) using SQL to identify conversion bottlenecks and retention dynamics.
 
 ## Project Context & Goal
 E-commerce growth depends not only on acquiring traffic, but also on moving users efficiently through the funnel and retaining them over time.  
@@ -18,7 +17,7 @@ The main goals of this analysis are:
 The analysis followed these steps:
 
 1. **Schema & data exploration** (events structure, key identifiers)
-2. **Build the conversion funnel**
+2. **Construct the end-to-end conversion funnel**
    - `page_view → view_item → add_to_cart → begin_checkout → purchase`
 3. **Compute conversion rates and drop-offs**
    - Overall funnel conversion
@@ -73,3 +72,13 @@ The analysis followed these steps:
 - Google Sheets (result modeling & executive summary)
 
 This project demonstrates strong SQL skills, funnel modeling, retention analysis, and business-driven data interpretation.
+
+## How to Run
+
+- Load dataset (mercadolibre_funnel) into SQL environment.
+
+- Execute funnel_analysis.sql to compute conversion metrics.
+
+- Execute retention_analysis.sql to compute D7/D14/D21/D28 retention.
+
+- Review outputs and visual summaries in the /images folder.
