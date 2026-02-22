@@ -2,17 +2,17 @@
 
 Welcome to my professional data analytics portfolio.
 
-I am a data analyst with a background in IT and engineering, focused on transforming data into strategic insights that support data-driven decision-making.
+IT professional transitioning into Data Analytics, with a background in IT operations and engineering. I focus on transforming data into strategic insights that support data-driven decision-making.
 
 ---
 
 ## About Me
 
-I combine technical knowledge in SQL, Python, and data visualization with strong business-oriented thinking.  
+I combine technical knowledge in SQL, Python, and data visualization with business-oriented analytical thinking.
 My work focuses on extracting actionable insights from real-world datasets, optimizing performance metrics, and supporting strategic decisions.
 
 Core strengths:
-- SQL (CTEs, aggregation, funnel modeling, cohort analysis)
+- SQL (CTEs, aggregations, funnel and cohort analysis)
 - Python (Pandas, data cleaning, visualization)
 - Business-focused analytical thinking
 - End-to-end project structuring
