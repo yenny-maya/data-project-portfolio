@@ -1,4 +1,4 @@
-# Yenny Maya – Data Analytics Portfolio
+# Yenny Maya – Data Project Portfolio
 
 Welcome to my professional data analytics portfolio.
 
