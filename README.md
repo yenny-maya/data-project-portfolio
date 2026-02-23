@@ -14,14 +14,15 @@ IT professional transitioning into Data Analytics, with a background in IT opera
 
 ---
 
-![Focus](https://img.shields.io/badge/Focus-Data%20Analytics-1F3C88?style=flat-square)
+## 👩‍💻 About Me
 
 <hr style="border: 2px solid #2C5282; width: 60%; margin-left: 0;">
 
 I combine technical knowledge in SQL, Python, and data visualization with business-oriented analytical thinking.
 My work focuses on extracting actionable insights from real-world datasets, optimizing performance metrics, and supporting strategic decisions.
 
-Core strengths:
+### 🔹 Core Strengths
+
 - SQL (CTEs, aggregations, funnel and cohort analysis)
 - Python (Pandas, data cleaning, visualization)
 - Business-focused analytical thinking
@@ -29,7 +30,7 @@ Core strengths:
 
 ---
 
-![Projects](https://img.shields.io/badge/🚀%20Projects-1F3C88?style=for-the-badge&color=1F3C88)
+
 
 This portfolio showcases end-to-end SQL and Python case studies focused on conversion optimization, retention analytics, and economic performance evaluation.
 
