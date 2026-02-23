@@ -1,6 +1,11 @@
+
+<img width="1584" height="396" alt="Blue Purple Modern Abstract Tech Background Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/02957661-ed33-426f-938f-95f34ba1ba48" />
+
+
+
 # Yenny Maya – Data Project Portfolio
 
-Welcome to my professional data analytics portfolio.
+Welcome to my professional data portfolio.
 
 IT professional transitioning into Data Analytics, with a background in IT operations and engineering. I focus on transforming data into strategic insights that support data-driven decision-making.
 
