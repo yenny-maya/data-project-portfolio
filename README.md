@@ -29,7 +29,6 @@ My work focuses on extracting actionable insights from real-world datasets, opti
 - End-to-end project structuring
 
 ---
-<hr style="border: 1px solid #2C5282; width: 100%; margin-left: 0;">
 
 ## 🚀 Projects
 
