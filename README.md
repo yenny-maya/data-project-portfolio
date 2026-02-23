@@ -34,7 +34,7 @@ My work focuses on extracting actionable insights from real-world datasets, opti
 
 This portfolio showcases end-to-end SQL and Python case studies focused on conversion optimization, retention analytics, and economic performance evaluation.
 
-### 1. Urban Mobility and Economic Productivity in LATAM Cities
+### 1️⃣ Urban Mobility and Economic Productivity in LATAM Cities
 
 Exploratory analysis evaluating the relationship between traffic congestion and economic performance across major Latin American cities.
 
@@ -49,7 +49,7 @@ Exploratory analysis evaluating the relationship between traffic congestion and 
 
 ---
 
-### 2. E-commerce Funnel & Retention Analysis (SQL Case Study)
+### 2️⃣ E-commerce Funnel & Retention Analysis (SQL Case Study)
 
 SQL-based analysis of user behavior in an e-commerce platform to identify conversion bottlenecks and retention patterns.
 
