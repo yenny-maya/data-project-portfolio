@@ -14,7 +14,7 @@ IT professional transitioning into Data Analytics, with a background in IT opera
 
 ---
 
-<h2 style="color:#2C5282;">👩‍💻 About Me</h2>
+![Focus](https://img.shields.io/badge/Focus-Data%20Analytics-1F3C88?style=flat-square)
 
 <hr style="border: 2px solid #2C5282; width: 60%; margin-left: 0;">
 
@@ -29,7 +29,7 @@ Core strengths:
 
 ---
 
-<h2 style="color:#1F3C88;">🚀 Projects</h2>
+![Projects](https://img.shields.io/badge/🚀%20Projects-1F3C88?style=for-the-badge&color=1F3C88)
 
 This portfolio showcases end-to-end SQL and Python case studies focused on conversion optimization, retention analytics, and economic performance evaluation.
 
