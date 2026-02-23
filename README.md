@@ -16,7 +16,7 @@ IT professional transitioning into Data Analytics, with a background in IT opera
 
 ## 👩‍💻 About Me
 
-<hr style="border: 2px solid #2C5282; width: 60%; margin-left: 0;">
+
 
 I combine technical knowledge in SQL, Python, and data visualization with business-oriented analytical thinking.
 My work focuses on extracting actionable insights from real-world datasets, optimizing performance metrics, and supporting strategic decisions.
@@ -29,6 +29,7 @@ My work focuses on extracting actionable insights from real-world datasets, opti
 - End-to-end project structuring
 
 ---
+<hr style="border: 1px solid #2C5282; width: 100%; margin-left: 0;">
 
 ## 🚀 Projects
 
