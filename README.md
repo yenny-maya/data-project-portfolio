@@ -6,7 +6,7 @@
 
 
 
-<h1 style="color:#1F3C88;">Yenny Maya – Data Project Portfolio</h1>
+<h1 style="color:#2C5282;">Yenny Maya – Data Project Portfolio</h1>
 
 Welcome to my professional data portfolio.
 
@@ -14,9 +14,9 @@ IT professional transitioning into Data Analytics, with a background in IT opera
 
 ---
 
-<h2 style="color:#1F3C88;">👩‍💻 About Me</h2>
+<h2 style="color:#2C5282;">👩‍💻 About Me</h2>
 
-<hr style="border: 2px solid #1F3C88; width: 60%; margin-left: 0;">
+<hr style="border: 2px solid #2C5282; width: 60%; margin-left: 0;">
 
 I combine technical knowledge in SQL, Python, and data visualization with business-oriented analytical thinking.
 My work focuses on extracting actionable insights from real-world datasets, optimizing performance metrics, and supporting strategic decisions.
