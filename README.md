@@ -1,6 +1,8 @@
 
 
-<img width="1350" height="400" alt="Blue Purple Modern Abstract Tech Background Data Analyst LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/5c57cf6e-fca5-4710-9aa4-ba3bc3f9beeb" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c57cf6e-fca5-4710-9aa4-ba3bc3f9beeb" width="100%" />
+</p>
 
 
 
