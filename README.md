@@ -30,7 +30,7 @@ My work focuses on extracting actionable insights from real-world datasets, opti
 
 ---
 
-
+## 🚀 Projects
 
 This portfolio showcases end-to-end SQL and Python case studies focused on conversion optimization, retention analytics, and economic performance evaluation.
 
