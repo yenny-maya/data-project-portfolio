@@ -6,7 +6,7 @@
 
 
 
-# Yenny Maya – Data Project Portfolio
+<h1 style="color:#2F80ED;">Yenny Maya – Data Project Portfolio</h1>
 
 Welcome to my professional data portfolio.
 
