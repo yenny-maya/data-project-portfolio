@@ -8,7 +8,7 @@
 
 <h1 style="color:#2C5282;">Yenny Maya – Data Project Portfolio</h1>
 
-Welcome to my professional data portfolio.
+#### Welcome to my professional data portfolio.
 
 IT professional transitioning into Data Analytics, with a background in IT operations and engineering. I focus on transforming data into strategic insights that support data-driven decision-making.
 
