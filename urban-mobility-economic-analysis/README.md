@@ -15,10 +15,10 @@ This project evaluates the relationship between traffic congestion and economic 
 - Date transformation and aggregation to annual level
 - Merging mobility and economic indicators
 - Exploratory data analysis and visualization
-- 
-  **Project Link**
+ 
+  **Project Link:**
   
-- 🔗 [View Notebook (Full Version)](https://nbviewer.org/github/yenny-maya/data-project-portfolio/blob/main/urban-mobility-economic-analysis/urban_mobility_economic_productivity.ipynb)
+  🔗 [View Notebook (Full Version)](https://nbviewer.org/github/yenny-maya/data-project-portfolio/blob/main/urban-mobility-economic-analysis/urban_mobility_economic_productivity.ipynb)
   
 ## Key Findings
 
