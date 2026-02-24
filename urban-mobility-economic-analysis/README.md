@@ -18,7 +18,7 @@ This project evaluates the relationship between traffic congestion and economic 
  
   **Project Link:**
   
- 🔗 [View Notebook](data-project-portfolio/urban-mobility-economic-analysis/urban_mobility_economic_productivity.ipynb)
+ 🔗 [View Notebook]((urban_mobility_economic_productivity.ipynb)
   
 ## Key Findings
 
