@@ -1,10 +1,5 @@
 # Urban Mobility and Economic Productivity in LATAM Cities
 
-**Project Links:**
-
-- 🔗 [View Notebook (Full Version)](https://nbviewer.org/github/yenny-maya/data-project-portfolio/blob/main/urban-mobility-economic-analysis/urban_mobility_economic_productivity.ipynb)
-- 📂 [Project Folder](urban-mobility-economic-analysis/)
-  
 ## Context
 
 This project evaluates the relationship between traffic congestion and economic productivity in major Latin American cities.
@@ -20,7 +15,11 @@ This project evaluates the relationship between traffic congestion and economic 
 - Date transformation and aggregation to annual level
 - Merging mobility and economic indicators
 - Exploratory data analysis and visualization
-
+- 
+  **Project Link**
+  
+- 🔗 [View Notebook (Full Version)](https://nbviewer.org/github/yenny-maya/data-project-portfolio/blob/main/urban-mobility-economic-analysis/urban_mobility_economic_productivity.ipynb)
+  
 ## Key Findings
 
 - No clear linear relationship between GDP per capita and congestion levels.
